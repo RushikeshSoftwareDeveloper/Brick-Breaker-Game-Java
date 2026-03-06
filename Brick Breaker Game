@@ -1,0 +1,30 @@
+# 🧱 Brick Breaker Game (Java)
+
+## 📌 Project Description
+Brick Breaker is a classic arcade-style game developed using Java Swing and Graphics.
+The player controls a paddle to bounce the ball and break bricks to score points.
+
+## 🚀 Features
+- Paddle controlled by keyboard
+- Ball movement physics
+- Brick collision detection
+- Score tracking
+- Game Over system
+
+## 🛠 Technologies Used
+- Java
+- Swing (JFrame, JPanel)
+- Graphics API
+- OOP principles
+
+## 🎮 Game Controls
+LEFT ARROW  → Move Paddle Left  
+RIGHT ARROW → Move Paddle Right
+
+## ▶ How to Run
+1. Clone the repository
+2. Open the project in Eclipse / IntelliJ
+3. Run the Main class
+
+## 👨‍💻 Author
+Rushikesh Walgude
